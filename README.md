@@ -14,3 +14,4 @@ Contains a collection of awesome videos showed at altran weekly.
 * [Visualise, document & explore your software architecture](https://www.youtube.com/watch?v=0o9_zjZeJuE) by Simon Brown at GOTO 2016
 * [Software architecture vs code](https://www.youtube.com/watch?v=GAFZcYlO5S0) by Simon Brown at GOTO 2014
 * [Agile product owner in a nutshell](https://www.youtube.com/watch?v=502ILHjX9EE) by Henrik Kniberg
+* [The principles of clean architecture](https://www.youtube.com/watch?v=o_TH-Y78tt4) by Robert C. Martin (UNcle Bob) at Norfolk Developers
