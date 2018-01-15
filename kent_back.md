@@ -1,0 +1,6 @@
+* [Ease](https://www.youtube.com/watch?v=aApmOZwdPqA)
+* [agile]()
+* [TDD:Making Making CoffeeScript ](https://www.youtube.com/watch?v=nIonZ6-4nuU)
+* [Is TDD dead?](https://www.youtube.com/watch?v=z9quxZsLcfo)
+* [Extreme Programming 20 years later by Kent Beck](https://www.youtube.com/watch?v=cGuTmOUdFbo&t=8s)
+* [3X with Kent Beck](https://www.youtube.com/watch?v=YX2XR73LnRY)
