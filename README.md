@@ -21,3 +21,7 @@ Contains a collection of awesome videos showed at altran weekly.
 ### Lambda
 
 * [Gone in 60 milliseconds: Offensive security in the serverless age](https://www.youtube.com/watch?v=byJBR16xUnc) by Rich Jones at Full Stack Fest 2017
+
+## CES
+
+https://www.youtube.com/watch?v=P3BjB5-Y4JM&t=4s <https://www.youtube.com/watch?v=P3BjB5-Y4JM&t=4s>  
