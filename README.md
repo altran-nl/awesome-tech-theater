@@ -25,3 +25,6 @@ Contains a collection of awesome videos showed at altran weekly.
 ## CES
 
 https://www.youtube.com/watch?v=P3BjB5-Y4JM&t=4s <https://www.youtube.com/watch?v=P3BjB5-Y4JM&t=4s>  
+
+## Beauty in Code
+[Beauty in Code](https://www.youtube.com/channel/UCWzjBygxodQkVTIQDEHjgbg)
